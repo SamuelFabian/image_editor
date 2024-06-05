@@ -112,7 +112,7 @@ def welcome():
     messagebox.showinfo('Bienvenido', message)
 
 def view_code():
-    messagebox.showinfo('Ver código fuente', 'Puedes ver el código fuente en: @github.com')
+    messagebox.showinfo('Ver código fuente', 'Puedes ver el código fuente en: git@github.com:SamuelFabian/image_editor.git')
 
 if __name__ == '__main__':
     root = Window()
